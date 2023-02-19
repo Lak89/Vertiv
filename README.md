@@ -1,4 +1,4 @@
-# Vertiv
+# Vertiv sample app
 
 This repo contains two project Client and Server app
 
